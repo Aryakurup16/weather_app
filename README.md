@@ -13,17 +13,6 @@ Clean UI: A user-friendly and aesthetically pleasing interface.
 
 Cross-Platform: Runs on both Android and iOS from a single codebase.
 
-📸 Screenshots
-(Add your app screenshots here!)
-
-Light Mode
-
-Dark Mode
-
-
-
-
-
 🛠️ Tech Stack & Dependencies
 Framework: Flutter
 
